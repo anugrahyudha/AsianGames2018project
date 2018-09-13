@@ -1,0 +1,47 @@
+sport_name,gold,silver,bronze,total_medals
+Swimming,19,17,14,50
+Athletics,12,12,9,33
+Diving,10,6,0,16
+Canoe/Kayak Sprint,10,3,0,13
+Wushu,10,2,0,12
+Rowing,9,1,0,10
+Artistic Gymnastics,8,5,5,18
+Shooting,8,5,2,15
+Table Tennis,5,3,0,8
+Fencing,3,6,2,11
+Sailing,3,4,0,7
+Cycling Track,3,2,2,7
+Badminton,3,1,2,6
+Bridge,3,1,2,6
+Wrestling,2,3,1,6
+Cycling Mountain Bike,2,2,0,4
+Canoe/Kayak Slalom,2,2,0,4
+Tennis,2,2,0,4
+Trampoline Gymnastics,2,1,1,4
+Boxing,2,0,3,5
+Basketball 3x3,2,0,0,2
+Basketball,2,0,0,2
+Artistic Swimming,2,0,0,2
+Taekwondo,1,2,2,5
+Karate,1,2,0,3
+Archery,1,0,2,3
+Modern Pentathlon,1,0,1,2
+Beach Volleyball,1,0,0,1
+Cycling BMX,1,0,0,1
+Volleyball,1,0,0,1
+Water Polo,1,0,0,1
+Sport Climbing,0,2,3,5
+Golf,0,2,2,4
+Triathlon,0,1,1,2
+Cycling Road,0,1,0,1
+Football,0,1,0,1
+Handball,0,1,0,1
+Roller Skate,0,1,0,1
+Rugby Sevens,0,1,0,1
+Judo,0,0,4,4
+Soft Tennis,0,0,2,2
+Equestrian,0,0,1,1
+Rhythmic Gymnastics,0,0,1,1
+Hockey,0,0,1,1
+Skateboard,0,0,1,1
+Softball,0,0,1,1
